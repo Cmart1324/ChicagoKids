@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChicagoKidsAndKites", "ChicagoKidsAndKites\ChicagoKidsAndKites.csproj", "{2328962C-3EA0-4DA9-A7CE-B9F37CF1BD63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App_Data", "App_Data", "{E0A09510-51F0-46E5-9245-7641B969FEC0}"
+	ProjectSection(SolutionItems) = preProject
+		ChicagoKidsAndKites\App_Data\loginDB.accdb = ChicagoKidsAndKites\App_Data\loginDB.accdb
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{58FB20A4-0BF1-4240-9CF0-65D345C8D17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicLayer", "LogicLayer\LogicLayer.csproj", "{E9A86B6A-7AE1-4CA2-8120-8874E6619D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2328962C-3EA0-4DA9-A7CE-B9F37CF1BD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2328962C-3EA0-4DA9-A7CE-B9F37CF1BD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2328962C-3EA0-4DA9-A7CE-B9F37CF1BD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2328962C-3EA0-4DA9-A7CE-B9F37CF1BD63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FB20A4-0BF1-4240-9CF0-65D345C8D17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FB20A4-0BF1-4240-9CF0-65D345C8D17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FB20A4-0BF1-4240-9CF0-65D345C8D17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FB20A4-0BF1-4240-9CF0-65D345C8D17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A86B6A-7AE1-4CA2-8120-8874E6619D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A86B6A-7AE1-4CA2-8120-8874E6619D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A86B6A-7AE1-4CA2-8120-8874E6619D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A86B6A-7AE1-4CA2-8120-8874E6619D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

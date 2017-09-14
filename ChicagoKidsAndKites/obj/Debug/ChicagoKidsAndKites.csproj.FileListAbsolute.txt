@@ -1,0 +1,14 @@
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\ChicagoKidsAndKites.exe.config
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.csprojResolveAssemblyReference.cache
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.Form1.resources
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.Forms.Registration.resources
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.Properties.Resources.resources
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.csproj.GenerateResource.Cache
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\ChicagoKidsAndKites.exe
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\ChicagoKidsAndKites.pdb
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\LogicLayer.dll
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\LogicLayer.pdb
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.exe
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\obj\Debug\ChicagoKidsAndKites.pdb
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\DataLayer.dll
+C:\Users\codys\Source\Repos\Ckandk\ChicagoKidsAndKites\bin\Debug\DataLayer.pdb
